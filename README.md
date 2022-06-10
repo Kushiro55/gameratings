@@ -1,1 +1,1 @@
-# gameratings
+Videogame Ratings
